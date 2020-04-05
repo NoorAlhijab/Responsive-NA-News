@@ -203,7 +203,7 @@ body {
  #showcase:before {
      content: "";
      position: absolute;
-     background: url(/img/featured.jpg) no-repeat center center/cover;
+     background: url(/img/featured.jpg)no-repeat center center/cover;
      top: 0;
      left: 0;
      height: 100%;
